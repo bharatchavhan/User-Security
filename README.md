@@ -1,3 +1,3 @@
-# spring-security-jwt-example
+# spring-security-jwt
 
 Reference : https://jwt.io/
